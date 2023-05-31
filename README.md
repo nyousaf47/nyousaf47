@@ -14,7 +14,7 @@ A highly experienced 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡�
 - 💬 Ask me about anything, I am happy to help
 
 ## 📫 How to reach me?
-Feel free to reach out to me on Linkedin [Nadeem Yousaf](https://www.linkedin.com/in/i-am-nadeem/)
+Feel free to reach out to me on Linkedin [Nadeem](https://www.linkedin.com/in/i-am-nadeem/)
 
 <!---
 nyousaf47/nyousaf47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
