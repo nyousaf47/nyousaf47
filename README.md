@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nadeem</h1>
 <h3 align="left">A Seasoned Full Stack and Mobile Developer | Top Rated Plus Freelancer @ Upwork</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyousaf47&label=Profile+Views&color=blue&style=flat&base=100" alt="Nadeem Dev." /> </p> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyousaf47&" alt="Nadeem Dev." /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyousaf47" alt="Nadeem Dev." /></p> 
 
 
 A highly experienced Full Stack Developer, expert in building high-quality Web and Mobile applications, from Frontend design to Backend development and Database integration.
