@@ -4,10 +4,10 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nyousaf47" alt="Nadeem Dev." /></p>  -->
 
 
-A highly experienced Full Stack Developer, expert in building high-quality Web and Mobile applications, from Frontend design to Backend development and Database integration.
+Experienced Full Stack Developer building AI-enhanced web and mobile solutions - integrating OpenAI, RAG systems with React, Next.js and React Native applications.
 
 - 🔹 𝟳+ 𝘆𝗲𝗮𝗿𝘀 of Experience in Software Development
-- 👀 I’m interested in MEAN, MERN, Full Stack, and Mobile App Development
+- 👀 I’m interested in AI Integration, Full Stack, MERN Stack, and Mobile App Development
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate with other content creators
 - ⚡ Fun fact: Beside's programming, I enjoy traveling
